@@ -1,5 +1,6 @@
 ﻿using System.Windows.Input;
 using Cirrious.MvvmCross.ViewModels;
+using Windows.UI.Xaml.Controls;
 
 namespace CommandParameterInEventTrigger.Core.ViewModels
 {
@@ -48,7 +49,7 @@ namespace CommandParameterInEventTrigger.Core.ViewModels
             {
                 return new MvxCommand<object>((textSearch) =>
                     {
-                        Second = textSearch.ToString();
+                        Second = ((TextBox)textSearch).Text;
                     });
             }
         }

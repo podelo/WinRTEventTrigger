@@ -12,7 +12,8 @@ namespace CommandParameterInEventTrigger.WinRT
 
         protected override IMvxApplication CreateApp()
         {
-            return new Core.App();
+          //  return new Core.App(); With DLL WinRT
+            return new CorePCL.App(); // With PCL
         }
     }
 }

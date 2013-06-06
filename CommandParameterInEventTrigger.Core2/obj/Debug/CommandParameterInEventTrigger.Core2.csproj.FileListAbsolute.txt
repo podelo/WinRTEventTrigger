@@ -1,0 +1,8 @@
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\bin\Debug\CommandParameterInEventTrigger.Core2.dll
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\bin\Debug\CommandParameterInEventTrigger.Core2.pdb
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\obj\Debug\CommandParameterInEventTrigger.Core2.csprojResolveAssemblyReference.cache
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\obj\Debug\CommandParameterInEventTrigger.Core2.dll
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core2\obj\Debug\CommandParameterInEventTrigger.Core2.pdb

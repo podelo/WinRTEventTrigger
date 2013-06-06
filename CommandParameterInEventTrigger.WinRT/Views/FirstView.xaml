@@ -5,9 +5,14 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:views="using:Cirrious.MvvmCross.WindowsStore.Views" xmlns:i="using:Windows.UI.Interactivity"
+    xmlns:Behaviors="using:JulMar.Windows.Behaviors"
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.Resources>
+            <Behaviors:NameScopeBinding x:Key="MyTextBox" 
+                            Source="{Binding ElementName=TxtBox, Path=Text}" />
+        </Grid.Resources>
         <StackPanel>
             <TextBlock FontSize="30" Text="This textBox is bound with the property text (so you have to unfocus to fire binding)"/>
             <TextBox Text="{Binding First, Mode=TwoWay}" />
@@ -18,7 +23,7 @@
             <TextBox x:Name="TxtBox" Text="{Binding TextSearch, Mode=TwoWay}">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="TextChanged">
-                        <i:InvokeCommandAction  Command="{Binding UpdateText}" CommandParameter="{Binding Path=Text, ElementName=TxtBox}"/>
+                        <i:InvokeCommandAction  Command="{Binding UpdateText}" CommandParameter="{Binding Source, Source={StaticResource MyTextBox}}"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </TextBox>
