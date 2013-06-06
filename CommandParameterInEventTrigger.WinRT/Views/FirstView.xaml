@@ -9,20 +9,20 @@
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel>
-            <TextBlock Text="This textBox is binding with the property text (so you have to unfocus to fire binding)"/>
+            <TextBlock FontSize="30" Text="This textBox is bound with the property text (so you have to unfocus to fire binding)"/>
             <TextBox Text="{Binding First, Mode=TwoWay}" />
-            <TextBlock Text="Result:"/>
-            <TextBlock Text="{Binding First}" />
+            <TextBlock FontSize="30" Text="Result:"/>
+            <TextBlock FontSize="30" Text="{Binding First}" />
             <TextBlock />
-            <TextBlock Text="This textBox is binding with the EventTrigger"/>
-            <TextBox Text="{Binding TextSearch, Mode=TwoWay}">
+            <TextBlock FontSize="30" Text="This textBox is bound with the EventTrigger"/>
+            <TextBox x:Name="TxtBox" Text="{Binding TextSearch, Mode=TwoWay}">
                 <i:Interaction.Triggers>
-                    <i:EventTrigger EventName="TextChanged" Tag="qsqsqs">
-                        <i:InvokeCommandAction  Command="{Binding UpdateText}" CommandParameter="{Binding Path=Text, ElementName=tes}"/>
+                    <i:EventTrigger EventName="TextChanged">
+                        <i:InvokeCommandAction  Command="{Binding UpdateText}" CommandParameter="{Binding Path=Text, ElementName=TxtBox}"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </TextBox>
-            <TextBlock Text="{Binding Second}" />
+            <TextBlock FontSize="30" Text="{Binding Second}" />
 
         </StackPanel>
     </Grid>
