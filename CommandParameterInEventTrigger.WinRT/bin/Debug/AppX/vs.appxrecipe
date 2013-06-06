@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GG-PC</Machine>
+    <WindowsUser>Gaetan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C32FC5B2F02EE82A665F14E4C356CDB57E5BAD6CC98A9C4C73CE5FFBDF26E09D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15eee61c-44ad-44f0-ad78-a84b364a8be3_1.0.0.0_neutral__g8pf5nrkjsmrc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>15eee61c-44ad-44f0-ad78-a84b364a8be3_g8pf5nrkjsmrc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>15eee61c-44ad-44f0-ad78-a84b364a8be3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Gaetan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-05T15:07:53.317</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.exe">
+      <PackagePath>CommandParameterInEventTrigger.WinRT.exe</PackagePath>
+      <Modified>2013-06-06T09:58:47.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.pdb">
+      <PackagePath>CommandParameterInEventTrigger.WinRT.pdb</PackagePath>
+      <Modified>2013-06-06T09:58:47.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core\bin\Debug\CommandParameterInEventTrigger.Core.pdb">
+      <PackagePath>CommandParameterInEventTrigger.Core.pdb</PackagePath>
+      <Modified>2013-06-05T15:13:35.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2013-06-05T14:58:44.468</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.CrossCore.WindowsStore.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsStore.dll</PackagePath>
+      <Modified>2013-06-05T14:58:44.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2013-06-05T14:58:44.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2013-06-05T14:58:44.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.MvvmCross.WindowsStore.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsStore.dll</PackagePath>
+      <Modified>2013-06-05T14:58:44.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core\bin\Debug\CommandParameterInEventTrigger.Core.dll">
+      <PackagePath>CommandParameterInEventTrigger.Core.dll</PackagePath>
+      <Modified>2013-06-05T15:13:35.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Windows.UI.Interactivity.dll">
+      <PackagePath>Windows.UI.Interactivity.dll</PackagePath>
+      <Modified>2013-06-05T15:00:17.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Windows.UI.Interactivity.xml">
+      <PackagePath>Windows.UI.Interactivity.xml</PackagePath>
+      <Modified>2013-06-05T15:00:17.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-05T14:58:01.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Views\FirstView.xaml">
+      <PackagePath>Views\FirstView.xaml</PackagePath>
+      <Modified>2013-06-06T09:58:44.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-05T15:07:53.167</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

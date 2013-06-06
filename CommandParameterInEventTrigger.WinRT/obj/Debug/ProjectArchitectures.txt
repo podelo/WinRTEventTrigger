@@ -1,0 +1,2 @@
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.Core\CommandParameterInEventTrigger.Core.csproj;neutral
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT.csproj;neutral

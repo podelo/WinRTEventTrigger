@@ -1,0 +1,68 @@
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.csprojResolveAssemblyReference.cache
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\App.g.i.cs
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\App.g.cs
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\Views\FirstView.g.i.cs
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\Views\FirstView.g.cs
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\App.xaml
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.exe
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.pdb
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\resources.pri
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\AppxManifest.xml
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.build.appxrecipe
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.CrossCore.WindowsStore.dll
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Cirrious.MvvmCross.WindowsStore.dll
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.Core.dll
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Windows.UI.Interactivity.dll
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.Core.pdb
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.Core.pri
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Windows.UI.Interactivity.xml
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\bin\Debug\Windows.UI.Interactivity.pri
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\Views\FirstView.xaml
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.exe
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.pdb
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.csproj.GenerateResource.Cache
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\priconfig.xml
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\layout.resfiles
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\resources.resfiles
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\pri.resfiles
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\LanguageQualifiers.txt
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\Windows.UI.Interactivity.pri.xml
+C:\Users\Gaetan\Documents\Visual Studio 2012\Projects\CommandParameterInEventTrigger.WinRT\CommandParameterInEventTrigger.WinRT\obj\Debug\ProjectArchitectures.txt
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.exe
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.pdb
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\resources.pri
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\AppxManifest.xml
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.WinRT.build.appxrecipe
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.Core.dll
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.Core.pdb
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\CommandParameterInEventTrigger.Core.pri
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Windows.UI.Interactivity.xml
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\bin\Debug\Windows.UI.Interactivity.pri
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.csprojResolveAssemblyReference.cache
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\App.g.i.cs
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\App.g.cs
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\Views\FirstView.g.i.cs
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\Views\FirstView.g.cs
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\App.xaml
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\Views\FirstView.xaml
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.exe
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.pdb
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\CommandParameterInEventTrigger.WinRT.csproj.GenerateResource.Cache
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\priconfig.xml
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\layout.resfiles
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\resources.resfiles
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\pri.resfiles
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\LanguageQualifiers.txt
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\Windows.UI.Interactivity.pri.xml
+C:\Users\Gaetan\Documents\GitHub\WinRTEventTrigger\CommandParameterInEventTrigger.WinRT\obj\Debug\ProjectArchitectures.txt

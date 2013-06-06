@@ -1,0 +1,30 @@
+﻿<views:MvxStorePage
+    x:Class="CommandParameterInEventTrigger.WinRT.Views.FirstView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:views="using:Cirrious.MvvmCross.WindowsStore.Views" xmlns:i="using:Windows.UI.Interactivity"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel>
+            <TextBlock FontSize="30" Text="This textBox is binding with the property text (so you have to unfocus to fire binding)"/>
+            <TextBox Text="{Binding First, Mode=TwoWay}" />
+            <TextBlock FontSize="30" Text="Result:"/>
+            <TextBlock FontSize="30" Text="{Binding First}" />
+            <TextBlock />
+            <TextBlock FontSize="30" Text="This textBox is binding with the EventTrigger"/>
+            <TextBox x:Name="TxtBox" Text="{Binding TextSearch, Mode=TwoWay}">
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="TextChanged" Tag="qsqsqs">
+                        <i:InvokeCommandAction  Command="{Binding UpdateText}" CommandParameter="{Binding Path=Text, ElementName=TxtBox}"/>
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
+            </TextBox>
+            <TextBlock FontSize="30" Text="{Binding Second}" />
+
+        </StackPanel>
+    </Grid>
+</views:MvxStorePage>
+
